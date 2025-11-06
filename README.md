@@ -136,12 +136,6 @@ JuiceDockLab/
 
 ---
 
-### 💬 Descrição curta (para o GitHub “About”)
-
-> Criei o **JuiceDockLab**, um laboratório prático de **Cloud Computing**, realizando o deploy da aplicação **OWASP Juice Shop** via **Azure Portal (GUI)** em um **App Service for Containers** usando **Docker**. Configurei a região, grupo de recursos e variáveis de ambiente, documentando cada etapa do processo.
-
----
-
 ### ✍️ Versão resumida (para LinkedIn)
 
 > Desenvolvi o **JuiceDockLab**, um laboratório de **Cloud Computing** no **Microsoft Azure**, onde implantei a aplicação **OWASP Juice Shop** como container Docker via **interface gráfica (GUI)**. Configurei a região, grupo de recursos, plano de serviço e variáveis de ambiente, validando o deploy e o funcionamento da aplicação em nuvem.
