@@ -6,7 +6,7 @@ Desenvolvi o AzureContainerLab, um laboratório de Cloud Computing no Microsoft 
 
 ## 
 
-Criei o **JuiceDockLab**, um laboratório prático de **Cloud Computing** voltado para o estudo de **deploy de aplicações containerizadas (Docker)** no **Microsoft Azure**, utilizando apenas a **interface gráfica (GUI)** do portal Azure.
+Criei o **AzureDockLab**, um laboratório prático de **Cloud Computing** voltado para o estudo de **deploy de aplicações containerizadas (Docker)** no **Microsoft Azure**, utilizando apenas a **interface gráfica (GUI)** do portal Azure.
 
 O objetivo deste laboratório foi compreender o fluxo completo de **provisionamento de recursos**, **configuração de containers** e **execução de aplicações em nuvem**, sem o uso do CLI, apenas com a interface visual — simulando um cenário corporativo de deploy rápido via painel.
 
@@ -138,10 +138,6 @@ JuiceDockLab/
 
 ### ✍️ Versão resumida (para LinkedIn)
 
-> Desenvolvi o **JuiceDockLab**, um laboratório de **Cloud Computing** no **Microsoft Azure**, onde implantei a aplicação **OWASP Juice Shop** como container Docker via **interface gráfica (GUI)**. Configurei a região, grupo de recursos, plano de serviço e variáveis de ambiente, validando o deploy e o funcionamento da aplicação em nuvem.
+> Desenvolvi o **AzureDockLab**, um laboratório de **Cloud Computing** no **Microsoft Azure**, onde implantei a aplicação **OWASP Juice Shop** como container Docker via **interface gráfica (GUI)**. Configurei a região, grupo de recursos, plano de serviço e variáveis de ambiente, validando o deploy e o funcionamento da aplicação em nuvem.
 
 ---
-
-
-Quer que eu gere agora a **versão completa em Markdown (README.md pronto para GitHub)** com emojis, blocos de código e seções visuais?
-Posso montar o arquivo completo com base no nome **JuiceDockLab**. Deseja que eu use esse nome mesmo?
