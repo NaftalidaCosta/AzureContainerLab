@@ -4,7 +4,7 @@ Desenvolvi o AzureContainerLab, um laboratório de Cloud Computing no Microsoft 
 
 ---
 
-## 🧠 Descrição longa (para README.md).
+## 
 
 Criei o **JuiceDockLab**, um laboratório prático de **Cloud Computing** voltado para o estudo de **deploy de aplicações containerizadas (Docker)** no **Microsoft Azure**, utilizando apenas a **interface gráfica (GUI)** do portal Azure.
 
